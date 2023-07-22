@@ -1,4 +1,4 @@
-# Admin Dashboard
+# TEMPLATE PRO
 
 It is a responsive website adapted for mobile and web, organized in a single page for a crypto page!
 
